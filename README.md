@@ -95,8 +95,8 @@ Improve model accuracy
 Add data visualization dashboard
 Deploy on cloud platforms
 Add PDF report generation
-👨‍💻 Author
 
+👨‍💻 Author
 Anand
 
 📜 License
